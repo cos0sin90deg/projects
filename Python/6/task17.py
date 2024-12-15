@@ -9,5 +9,4 @@ while x != 0:
         s = s + x
         sq = sq + x**2
         i = i + 1
-print (i)
-print (sqrt(((sq - 2*(s**2)/i + (s^2)/i)/(i-1))))
+print (sqrt(((sq - 2*(s**2)/i + (s**2)/i)/(i-1))))
